@@ -27,7 +27,7 @@ Runs like a typical express app:
 
 ### Running tests
 
-Coming soon!
+Coming soon
 
 ### Receiving updates from upstream
 
